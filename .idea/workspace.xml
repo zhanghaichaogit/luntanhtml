@@ -2,211 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdc2cf4b-3d08-4aae-a82f-c0192bfe3b96" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/blue-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/devine-art.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/footer-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/linked-in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/stumble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/devine-art.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/faq-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/faq-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/footer-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/green-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/linked-in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/plus-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/stumble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/devine-art.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/faq-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/faq-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/footer-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/linked-in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/plus-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/red-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/stumble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/calendar-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/category-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/category-main-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/comment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/devine-art.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/faq-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/faq-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/footer-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/li-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/like-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/like.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/linked-in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/main-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/plus-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/question-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/question.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scroll-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/search-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/standard-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/standard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/stumble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/support.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/temp/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/temp/living-room-770x501.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/temp/man.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/video-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/bface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/cface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/fface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/jxface2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/tface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/wface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/images/yface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/formula/images/formula.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/image/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/image/images/upload1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/image/images/upload2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/video/images/center_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/video/images/left_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/video/images/none_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/video/images/right_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/addimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/alldeletebtnhoverskin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/alldeletebtnupskin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/deletedisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/deleteenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/imglabel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/listbackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/rotateleftdisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/rotateleftenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/rotaterightdisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/rotaterightenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/zh-cn/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/zh-cn/images/imglabel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/zh-cn/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/zh-cn/images/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/zh-cn/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/caret.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/ok.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/pop-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/images/videologo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/Symbola.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/Symbola.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/Symbola.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/Symbola.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/moban178.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/articles-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blue-skin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue-skin5152.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap5152.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom5152.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green-skin5152.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main5152.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/red-skin5152.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsive5152.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-width.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/green-skin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home-categories-articles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home-categories-description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.serializejson.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/paging.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/red-skin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/emotion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/emotion/emotion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/formula/formula.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/formula/formula.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/formula/formula.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/image/image.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/image/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/link/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/map/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/map/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/video/video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/dialogs/video/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/en/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/lang/zh-cn/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/css/umeditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/themes/default/css/umeditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/Symbola.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/STIXFontLicense2010.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/mathquill.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/mathquill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/third-party/mathquill/mathquill.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/umeditor.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/umeditor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueditor/umeditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/说明.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -241,10 +39,10 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="107" column="14" lean-forward="true" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
+            <state relative-caret-position="336">
+              <caret line="104" column="22" lean-forward="true" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
               <folding>
-                <element signature="n#style#0;n#script#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -781,12 +579,20 @@
       <workItem from="1516795967629" duration="1827000" />
       <workItem from="1516880085186" duration="3935000" />
       <workItem from="1516973069825" duration="1950000" />
-      <workItem from="1517642541102" duration="7775000" />
+      <workItem from="1517642541102" duration="7959000" />
     </task>
+    <task id="LOCAL-00001" summary="提交项目">
+      <created>1517665086026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517665086026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16366000" />
+    <option name="totallyTimeSpent" value="16550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -826,6 +632,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -868,6 +678,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -939,10 +750,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="107" column="14" lean-forward="true" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
+        <state relative-caret-position="336">
+          <caret line="104" column="22" lean-forward="true" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
           <folding>
-            <element signature="n#style#0;n#script#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
