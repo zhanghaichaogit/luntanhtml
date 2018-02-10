@@ -1414,3 +1414,39 @@ a#scroll-top:hover {
     display: inline-block;
   }
 }
+
+.navbox {
+  float: left;
+}
+
+.navbox ul.nav {
+  width: 200px;
+  background: url() no-repeat;
+}
+
+.navbox ul.nav li {
+  margin: 5px 0 0 0;
+  background: url() no-repeat;
+  border: 0;
+}
+
+.navbox ul.nav li a {
+  background: #cbcbcb url() no-repeat;
+  color: #174867;
+  padding: 7px 15px 7px 15px;
+  width: 100px;
+  display: block;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  -webkit-box-shadow: 2px 2px 4px #888;
+  -moz-box-shadow: 2px 2px 4px #888;
+  -o-box-shadow: 2px 2px 4px #888;
+}
+
+.navbox ul.nav li a:hover {
+  background: #ebebeb url() no-repeat;
+  color: #67a5cd;
+  padding: 7px 15px 7px 30px;
+}
